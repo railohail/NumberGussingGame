@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7zchHdMfcAVYc9fLDXE+/Hj4AFVhlJ6ShGvZZZA8H0xJefT90DYcsF1P6Mei831xjlyOtGM+wCA31JcqUm5ZeQ==",
+  "success": true,
+  "projectFilePath": "/home/rail_hail/Downloads/Csharp/NumberGuessingGame/Client/Client.csproj",
+  "expectedPackageFiles": [
+    "/home/rail_hail/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

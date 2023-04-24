@@ -1,0 +1,15 @@
+/home/rail_hail/Downloads/Csharp/NumberGuessingGame/Client/bin/Debug/net7.0/Client
+/home/rail_hail/Downloads/Csharp/NumberGuessingGame/Client/bin/Debug/net7.0/Client.deps.json
+/home/rail_hail/Downloads/Csharp/NumberGuessingGame/Client/bin/Debug/net7.0/Client.runtimeconfig.json
+/home/rail_hail/Downloads/Csharp/NumberGuessingGame/Client/bin/Debug/net7.0/Client.dll
+/home/rail_hail/Downloads/Csharp/NumberGuessingGame/Client/bin/Debug/net7.0/Client.pdb
+/home/rail_hail/Downloads/Csharp/NumberGuessingGame/Client/obj/Debug/net7.0/Client.csproj.AssemblyReference.cache
+/home/rail_hail/Downloads/Csharp/NumberGuessingGame/Client/obj/Debug/net7.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/home/rail_hail/Downloads/Csharp/NumberGuessingGame/Client/obj/Debug/net7.0/Client.AssemblyInfoInputs.cache
+/home/rail_hail/Downloads/Csharp/NumberGuessingGame/Client/obj/Debug/net7.0/Client.AssemblyInfo.cs
+/home/rail_hail/Downloads/Csharp/NumberGuessingGame/Client/obj/Debug/net7.0/Client.csproj.CoreCompileInputs.cache
+/home/rail_hail/Downloads/Csharp/NumberGuessingGame/Client/obj/Debug/net7.0/Client.dll
+/home/rail_hail/Downloads/Csharp/NumberGuessingGame/Client/obj/Debug/net7.0/refint/Client.dll
+/home/rail_hail/Downloads/Csharp/NumberGuessingGame/Client/obj/Debug/net7.0/Client.pdb
+/home/rail_hail/Downloads/Csharp/NumberGuessingGame/Client/obj/Debug/net7.0/Client.genruntimeconfig.cache
+/home/rail_hail/Downloads/Csharp/NumberGuessingGame/Client/obj/Debug/net7.0/ref/Client.dll
