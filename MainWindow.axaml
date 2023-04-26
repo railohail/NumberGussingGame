@@ -1,0 +1,31 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="GuessingGameClientAvalonia.MainWindow"
+        Title="Guessing Game Client">
+  <Window.Styles>
+    <StyleInclude Source="avares://Avalonia.Themes.Default/DefaultTheme.xaml"/>
+    <StyleInclude Source="avares://Avalonia.Themes.Default/Accents/BaseDark.xaml"/>
+  </Window.Styles>
+  <Grid Margin="20">
+    <Grid.RowDefinitions>
+      <RowDefinition Height="Auto"/>
+      <RowDefinition Height="*"/>
+      <RowDefinition Height="Auto"/>
+    </Grid.RowDefinitions>
+    <Border Grid.Row="0" BorderBrush="Gray" BorderThickness="0,0,0,2" Margin="0,0,0,20">
+      <TextBlock FontWeight="Bold" FontSize="28" Text="Guessing Game" HorizontalAlignment="Center" Foreground="LightGray"/>
+    </Border>
+    <Border Grid.Row="1" BorderBrush="Gray" BorderThickness="1" CornerRadius="5" Background="DimGray" Padding="10">
+      <ScrollViewer VerticalScrollBarVisibility="Auto">
+        <TextBox Name="txtOutput" IsReadOnly="True" TextWrapping="Wrap" Background="Transparent" BorderThickness="0" Foreground="White"/>
+      </ScrollViewer>
+    </Border>
+    <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,20,0,0">
+      <TextBox Name="txtInput" Width="200" Margin="0,0,10,0" Watermark="Enter your guess" Foreground="White"/>
+      <Button Name="btnSend" Content="Send" Click="BtnSend_Click" Background="Gray" Foreground="White" Padding="10,5" />
+    </StackPanel>
+  </Grid>
+</Window>
